@@ -1,0 +1,6 @@
+c:\users\p10271333\documents\visual studio 2013\Projects\BinarySerializationSample\BinarySerializationSample\bin\Debug\BinarySerializationSample.exe.config
+c:\users\p10271333\documents\visual studio 2013\Projects\BinarySerializationSample\BinarySerializationSample\bin\Debug\BinarySerializationSample.exe
+c:\users\p10271333\documents\visual studio 2013\Projects\BinarySerializationSample\BinarySerializationSample\bin\Debug\BinarySerializationSample.pdb
+c:\users\p10271333\documents\visual studio 2013\Projects\BinarySerializationSample\BinarySerializationSample\obj\Debug\BinarySerializationSample.csprojResolveAssemblyReference.cache
+c:\users\p10271333\documents\visual studio 2013\Projects\BinarySerializationSample\BinarySerializationSample\obj\Debug\BinarySerializationSample.exe
+c:\users\p10271333\documents\visual studio 2013\Projects\BinarySerializationSample\BinarySerializationSample\obj\Debug\BinarySerializationSample.pdb
